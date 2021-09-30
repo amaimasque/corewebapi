@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebAPI2", "CoreWebAPI2\CoreWebAPI2.csproj", "{35730453-6521-4483-846F-F9ED3C01B699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35730453-6521-4483-846F-F9ED3C01B699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35730453-6521-4483-846F-F9ED3C01B699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35730453-6521-4483-846F-F9ED3C01B699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35730453-6521-4483-846F-F9ED3C01B699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027136C4-82E9-4870-A9F9-04125B6A7A59}
+	EndGlobalSection
+EndGlobal
